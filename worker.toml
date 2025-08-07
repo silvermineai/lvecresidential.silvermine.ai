@@ -1,0 +1,9 @@
+# The name of your project
+name = "lvecresidential-silvermine-ai"
+
+# The date your worker was created
+compatibility_date = "2025-08-07"
+
+# This is the crucial part for a static site!
+[site]
+bucket = "./out" # Tells Wrangler to upload the contents of the "./out" directory.
