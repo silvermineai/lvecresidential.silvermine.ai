@@ -2,7 +2,7 @@
 name = "lvecresidential-silvermine-ai"
 
 # The date your worker was created
-compatibility_date = "2025-08-07"
+compatibility_date = "2025-08-05"
 
 # This is the crucial part for a static site!
 [site]
