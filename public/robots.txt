@@ -1,0 +1,64 @@
+# Robots.txt for LVEC Residential
+# https://lvecresidential.silvermine.ai
+
+# Allow all web crawlers
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /private/
+Crawl-delay: 0
+
+# Google
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# Bing
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 0
+
+# AI Bots - Allow access for AI search engines
+User-agent: GPTBot
+Allow: /
+Crawl-delay: 5
+
+User-agent: ChatGPT-User
+Allow: /
+Crawl-delay: 5
+
+User-agent: CCBot
+Allow: /
+Crawl-delay: 10
+
+User-agent: Claude-Web
+Allow: /
+Crawl-delay: 5
+
+User-agent: anthropic-ai
+Allow: /
+Crawl-delay: 5
+
+User-agent: Perplexity-Bot
+Allow: /
+Crawl-delay: 5
+
+# Block low-value bots
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+# Sitemap location
+Sitemap: https://lvecresidential.silvermine.ai/sitemap.xml
+
+# Host
+Host: https://lvecresidential.silvermine.ai

@@ -1,6 +1,7 @@
 'use client'
 
 import { useState } from 'react'
+import dynamic from 'next/dynamic'
 import HeroSection from '@/components/HeroSection'
 import WhySection from '@/components/WhySection'
 import TechSection from '@/components/TechSection'
@@ -9,6 +10,8 @@ import WhyLVECSection from '@/components/WhyLVECSection'
 import PricingSection from '@/components/PricingSection'
 import ContactFormModal from '@/components/ContactFormModal'
 import Footer from '@/components/Footer'
+
+const WebVitals = dynamic(() => import('@/components/WebVitals'), { ssr: false })
 
 export default function Home() {
   const [isFormOpen, setIsFormOpen] = useState(false)
@@ -23,6 +26,7 @@ export default function Home() {
 
   return (
     <div className="min-h-screen bg-white">
+      <WebVitals />
       <HeroSection />
       <WhySection />
       <TechSection />

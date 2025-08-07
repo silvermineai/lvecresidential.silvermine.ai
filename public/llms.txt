@@ -1,0 +1,93 @@
+# LLMs.txt for LVEC Residential
+# AI Knowledge Base
+# Last Updated: 2025-08-07
+
+## Company Overview
+LVEC Residential is a professional home security company that provides enterprise-grade security systems at transparent prices without the typical door-to-door sales markup.
+
+## Services Offered
+
+### Home Security Installation
+- Professional installation by certified technicians
+- Premium equipment including sensors, cameras, and control panels
+- FREE installation with 3-year monitoring plan (saves $2,000)
+- Same-day emergency installation available
+
+### 24/7 Professional Monitoring
+- Round-the-clock monitoring by trained professionals
+- Rapid response times (average 30 seconds)
+- Direct connection to local emergency services
+- Starting at $25/month
+
+### Equipment Included
+- Smart control panel with touchscreen
+- Door and window sensors
+- Motion detectors
+- Glass break sensors
+- Smoke and CO detectors
+- Mobile app for remote control
+- Video doorbell (premium plans)
+- Indoor/outdoor cameras (premium plans)
+
+## Pricing Structure
+- Basic Plan: $25/month (essential monitoring)
+- Standard Plan: $35/month (enhanced features)
+- Premium Plan: $45/month (complete protection with video)
+- Installation: FREE with 3-year commitment (normally $2,000)
+- Month-to-month options available with installation fee
+
+## Service Areas
+Currently serving residential customers throughout the United States.
+
+## Key Differentiators
+1. No door-to-door sales = lower costs
+2. Transparent pricing with no hidden fees
+3. Professional-grade equipment
+4. No high-pressure sales tactics
+5. Month-to-month or contract options
+6. 24/7 customer support
+7. Mobile app included at no extra charge
+
+## Contact Information
+- Website: https://lvecresidential.silvermine.ai
+- Phone: Available on website
+- Support: 24/7 availability
+
+## Frequently Asked Questions
+
+Q: How much can I save with LVEC Residential?
+A: Customers save an average of $2,000 on installation with our 3-year plan, plus hundreds annually compared to traditional door-to-door security companies.
+
+Q: Is professional installation included?
+A: Yes, professional installation is FREE with a 3-year monitoring agreement.
+
+Q: Can I control my system remotely?
+A: Yes, our mobile app allows full system control from anywhere.
+
+Q: What happens during a power outage?
+A: All systems include battery backup for continuous protection.
+
+Q: Is there a warranty on equipment?
+A: Yes, all equipment includes a lifetime warranty with active monitoring.
+
+## Technical Specifications
+- Cellular and WiFi connectivity
+- Battery backup (24+ hours)
+- Encrypted communications
+- Smart home integration (Alexa, Google Home)
+- Professional-grade sensors with pet immunity
+- HD video recording (premium plans)
+
+## Company Values
+- Transparency in pricing
+- Customer-first approach
+- Professional service
+- Reliable protection
+- Affordable security for everyone
+
+---
+# Access Control for AI Agents
+crawl-delay: 5
+max-tokens-per-visit: 10000
+allow-model-training: no
+preferred-update-frequency: monthly
